@@ -1,10 +1,4 @@
-export default function Home() {
-  return (
-    <main className='flex min-h-screen flex-col items-center justify-between p-24'></main>
-  );
-}
-'use client'; 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
